@@ -1,2 +1,2 @@
 # Python
-Python Projects 
+Python related stuff
